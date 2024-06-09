@@ -31,5 +31,4 @@ const styles = StyleSheet.create({
       resizeMode: 'contain',
       marginBottom: 60,
     },
-  
-  });
+  }); //teste github
